@@ -1,6 +1,9 @@
 ## Dashboard Preview
 
-![Weather Dashboard](powerbi-weather-dashboard.png)
+![Dashboard](powerbi-weather-dashboard.png)
 
-# PowerBI-Weather-Dashboard
-Interactive Weather Dashboard created using Microsoft Power BI for data visualization and analysis.
+![Dashboard](dashboard-preview.png)
+
+![Dashboard](weather-dashboard-overview.png)
+
+![Dashboard](weather-dashboard.png)
